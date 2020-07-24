@@ -1,6 +1,6 @@
 jdbc.driverClassName=org.postgresql.Driver
 jdbc.resourceName=jdbc/aggregate
-jdbc.url=jdbc:postgresql://127.0.0.1/aggregate?autoDeserialize=true
+jdbc.url=jdbc:postgresql://127.0.0.1:5433/aggregate?autoDeserialize=true
 jdbc.username=aggregate
 jdbc.password=aggregate
 jdbc.schema=aggregate
